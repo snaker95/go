@@ -1,1 +1,1 @@
-module snaker95/sync-go
+module github.com/snaker95/sync-go
